@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oneway39
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C lang and assembler
+- 📫 How to reach me: telegram @voro6yov_egor
